@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://ilink-app.com/to_go/'),
+    'url' => env('APP_URL', 'http://localhost:8888/restaurant1/public'),
 
     /*
     |--------------------------------------------------------------------------
